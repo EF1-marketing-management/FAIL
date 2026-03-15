@@ -1,0 +1,127 @@
+Dobrý den, ahoj, vítám vás u dalšího modulu z programu Future AI Leader. Tentokrát na téma, jak stavět digitální produkty z AI. Co nás čeká v rámci přípravy? Podíváme se na to, jaké digitální produkty dneska můžeme stavět.
+
+Otevřeme téma takzvaného wipecodingu, což je obrovský trend, kdy neprogramátoři programují za pomocí AI. Podíváme se také na nástroje a možnosti jejich využití. V rámci této přípravy jde primárně o to, abyste získali přihled o možnostech.
+
+I proto to bude hodně o nástrojích a o tom, k čemu je můžeme využít. A v naší páteční sesion se podíváme na scénáře, jak je využít správně, jak designovat celý proces, jak dělat něco, co bude fungovat a idáně i na co si dát pozor. Takže jdeme na to.
+
+Co jsou to digitální produkty pro účely tohoto našeho školení? Jde o cokoliv digitálního, co řeší nějaký problém nebo automatizuje práci. Což je hodně teoretické, nicméně. Představte si to jako aplikaci, webovou stránku, formulář, který registruje účastníky vašeho školení.
+
+Může to být automatizace, může to být nějaký skrypt, který vám čistí data nebo mění formáty souborů. Zkrátka, cokoliv, co stavíme na počítači, není to takový ten klasický obsah jako e-maily nebo prezentace, ale je to opravdu něco, co teoreticky můžete nabízet ať už svým kolegům, můžete to používat sami, ale můžete to také prodávat potenciálním klientům. Ty digitální produkty rozlišují, nebo respektive využití AI, rozlišují ve dvou případech.
+
+Na jedné straně můžeme použít umělou inteligenci k tomu, abychom postavili nějakou aplikaci, web nebo nástroj. V takovém případě vám AI pomůže z diskuzí o tom, jak by to mohlo vypadat, zadání pro AI, psaní kodu nebo postavení celého produktu. Takže vy to řídíte a AI vám zrychluje práci.
+
+Stejně tak ale můžete stavit digitální produkt, který používá AI. To znamená, představte si, že si uděláte aplikaci, která vám bude převádět dokumenty do PDF. Nebo postavíte chatbota, který bude odpovídat vašim zákazníkům na dotazy.
+
+Zkrátka umělá inteligence běží uvnitř vašeho řešení a pomáhá koncovým uživatelům. O obou těchto rovinách se budeme samozřejmě bavit. Jdeme na první téma a to je digitální projekty v době AI.
+
+Už několik let platí, že člověk, který pracuje na počítači, má daleko více možností, jak se může realizovat. Už to nemusí být jenom programátor, ale může to být vlastně kdokoliv, kdo si může postavit nějaký digitální projekt, nebo produkt, nebo službu. I proto se uchytil termín Citizen Developer, neboli občanský vývojář.
+
+A i když se primárně budeme bavit o AI, nesmíme zapomenout na to, že existuje spousta nástrojů, které vám umožní postavit nějaký produkt nebo systém, aniž byste museli používat samotné programování. I proto se rozlišuje tzv. no-code přístup, kde stavím nástroje nebo aplikace jako kostičky z lega v nějakém systému, kde si to jenom poskládám dohromady.
+
+Potom tzv. low-code, kde přece jenom ty nástroje musím trošku kustomizovat a občas nějaký kód použiju, až pro profesionální development a vývoj. K tomu jsme ještě do nedávna potřebovali mít vývojáře a hajitáky, ale s příchodem AI za nás zašlo programovat právě umělá inteligence, takže to bude asi to hlavní téma.
+
+Nicméně, pořád tyto no-code a low-code nástroje jsou extrémně užitečné a je dobré vědět, co všechno s nimi můžete dělat. Někdy totiž, až příliš mnoho sledujeme ten AI pověk a při tom řešení našich problémů, můžou obstarat právě tyto aplikace. Takže pojďme se podívat, co všechno si můžeme postavit, aniž bychom museli programovat.
+
+První téma jsou databáze. Nástroje jako je Airtable, Notion databáze nebo Microsoft Lists nám umožňují vytvořit si databázy, to znamená hodit data na jedno místo, používat víc formatů než jenom v tabulce, soubory, datumy, možnosti, a pak s těmi daty dále pracovat. Typicky se to využívá na proces, kdy potřebuji evidovat například uchazečeho zaměstnání, nebo mytech v nějakém projektu, nebo si třeba chci evidovat knihy v donácí knihovně.
+
+Na to všechno můžeme použít databáze, a znalost těch nástrojů je vhodná nejen proto, že tím opravdu můžeme vyřešit spoustu firmních situací, ale také proto, že častokrát slouží jako základ pro automatizaci procesu. Častokrát, když chcete automatizovat nějaké projekty, tak potřebujete mít databázy, a moderní aplikace nahrazují takové ty původní databázové systémy, které byly poměrně komplexní a složité na ovládání. Takže databáze určitě jsou něco, co slouží víceméně v jakémkudy projektu a naučí se s nimi pracovat každý.
+
+Druhou kategorií jsou interní systémy. Teď nemyslím takové ty klasické velké systémy, jako je SAP nebo nějaké výrobní systémy, ale zkrátka aplikace, které si ve firmách dělají buď samotní uživatelé nebo jejich IT oddělení, a to za pomocí systému, které skládají ty aplikace bez nutnosti pokročilého vývoje. V Česku máme velmi oblíbenou platformu Tabidů, ve světě je například aplikace Retool a nebo v Microsoftovtím světě aplikace Microsoft Power Apps.
+
+Výhodou je daleko rychlejší možnost postavit si nějakou interní aplikaci a samozřejmě ta rychlost znamená, že cesta od nápadu k realizaci je daleko rychlejší, ale vy pak máte také možnost daleko flexibilněji ty své nástroje upravovat a nemusíte čekat týdny nebo měsíce, až se k tomu dostanou vaši dodavatele nebo IT oddělení. Třetí kategorii jsou webové stránky. I když je můžete naprogramovat za pomocí AI, tak pořád potřebujete, aby byly dobře vyhledatelné, chcete mít ideálně nějaký redakční systém.
+
+Proto nástroj jako je Webflow, Framer nebo Solidpixels umožňují, abyste si jednoduše poskládali internetové stránky, buď s předem vytvořený šablon, nebo s šablon na míru. Pokud děláte jako jednodázovou akci, tak toho možná nepotřebujete. Pro weby, které už vyžadují určitou zprávu, tak toto je jedna z nejpopulárnějších řešení, které můžete postavit opravdu velmi rychle.
+
+Další kategorii jsou aplikace. Dnes už se dají postavit aplikace jednak na web, jednak na Windows nebo Mac, ale také mobilní aplikace, za pomocí tady toho Low Code přístupu. To znamená, nemusíte programovat, napojíte to na nějakou databázi a pak si poskládáte tu aplikaci podle toho, co chcete, aby dělala.
+
+Někdy můžete jako databázi použít třeba Notion, což je aplikace Software. Aplikace Glide nebo Bubble se dá napojit na tabulku nebo jakoukoliv jinou databázi. Doporučuji podívat se na šablony nebo na galerie aplikacích, kterou v tom už uživatelé dělali, protože častokrát toto je podle mě jedno z nejlepších řešení, když potřebuji už nějaký trošku pokročilejší systém na sběr dát a jejich zpracování, přehled o informacích, které máme v týmu nebo nějakou mobilní aplikaci na míru.
+
+Opět tím, že to neprogramuji a skládám to, tak jsem daleko rychlejší a flexibilnější. Předposlední kategorii jsou chatboty. Je to téma, které řešíme ve failu už v několika modulech.
+
+Zkrátka nástroje, kdy nemusíte trénovat úmělou inteligenci složitými způsoby, ale použijete už přednastavený systém, narijete do něho nějaké vaše znalosti, internetové stránky nebo firmní dokumenty a tyto nástroje vám vytvoří chatbota na míru. Můžete ho používat pro interní učery, například odpovědi zavěstancům na dotazy pro HR oddělení, ale také pro vaše zákazníky. Ta funkce je samozřejmě trošku omezená, pokud jste ve velké firmě potřebujete zpracovávat velké množství dat, tak potřebujete trošku komplexnější řešení.
+
+Nicméně já osobně věřím, že na prototyping, nějaké první verze, abyste si vyskoušeli, jak tyto chatboti na vašich datách fungují, je to naprosto skvělé řešení a posouvají se od toho psaného textu, to znamená, že chatbota i až po voicebota se s tím zákaznící můžou bavit a do budoucna také pro video, to znamená, že uvidí nějakého videoavatara a s tím budou konverzovat na obrazovce. Poslední kategorii jsou formuláře. Může se zdát, že je to poměrně jednoduchá technologie, ale dneska už se s ní nejdělat opravdu velmi zajímavé věci.
+
+Dneska můžete postavit formulář na cokoliv, jednak je to sběr zpetné vazby, registrace na workshopy, dokonce i nákupy můžou být poměrně logicky rozvětvené, takže můžete třeba využívat na přípravu cenových nabídek, ale oni už dneska mají integrovanou i třeba vrstvu, kde častokrát nepotřebujete mít webovou stránku, máte přímo před dotazníkem video nebo různé texty a vlastně postavíte celou landing page s formulářem na pár kliknutí. Když se podíváte třeba na Typeform nebo na Tally, tak oni mají i další funkce. Typeform má třeba videodotazník, takže vy nemusíte ty otázky ukazovat textem, ale můžete tam mít video a stejně tak i ty odpovědi můžete sbírat v podobě hlasu nebo videa.
+
+Takže formuláře jsou skvělým nástrojem, jak můžete získávat informace od řady lidí, dostat je na jedno místo a pak je třeba zpracovávat za pomocí AI. Ty digitální projekty v rámci Low Code a No Code jsou samozřejmě omezené těmi možnostmi aplikací, které jsem vám ukazoval. Já když jsem dostal v roce 2024, na začátku roku 2024, otázku, jestli budeme vůbec programovat v budoucnu, jestli náhodou programování nebude zbytečné, jestli by se děti měly učit programovat, tak jsem nad tím hodně přemýšlel.
+
+A zvažoval jsem dvě věci. Jediné, jak jsem zvažoval, jestli náhodou nebudeme spíše používat právě ony Low Code a No Code platformy, kde si to poskládáme, jak potřebujeme. Ale hlavně jsem viděl obrovskou příležitost a budoucnost v AI.
+
+A napsal jsem komentář do hospodářských novin, kde jehož poslední věta byla tato. I proto bychom se měli urychleně začít připravovat na svět bez programátorů, ve kterém budou programátory úplně všechny. A ukázalo se, že jsem tehdy měl pravdu a už za několik málo měsíců se začaly objevovat první nástroje a aplikace, které dokázaly programovat za uživatele, i když uživatel vůbec s programováním neměl zkušenost.
+
+Pak přišel Andrej Karpaty, jeden ze spoluzakladatelů OpenAI, se svým prohlášením, ve kterém oznamoval nebo minimálně pojmenoval nový způsob programování, který nazval VibeCoding. To slovo Vibe je takový pocit, že dáváte AI zaměření cíl, my jsme to probírali už v kontextu VibeWorkingu, a AI programuje za vás. Andrej zmiňoval, že dokonce zapomenete úplně na kod a zkrátka veškeré návrhy, které vám dává AI, tak budete akceptovat.
+
+No a tady ten termín VibeCoding se uchytil, začaly vznikat platformy, které programovali za vás, a Amjad Masad, zakladatel mojí oblíbené platformy Replit, přišel s tím, že vlastně bude vznikat takzvaný just-in-time software. Já jsem tady to just-in-time software začal v podobné době taky používat, protože si myslím, že to naprosto reflektuje to, jak se mění vývoj softwaru, a že častokrát, když něco budeme potřebovat, tak nevyužijeme AI, aby nám to udělala ten úkol, ale aby naprogramovala řešení, které nám s tím úkolem pomůžou. Proto začíná vznikat nová generace digitálních tvůrců.
+
+Jednak jsou to netechničtí profesionálové, zakladatelé, firém, manažeři, pracovníci, kteří se zabývají znalostní nebo kreativní prací, kteří buď chtějí rychle ověřit nějaký nápad, vytvořit se rychle nějakou automatizaci a nechtějí se věnovat studiu automatizací, nebo si usnadnit práci a zjistit, jestli nějaký projekt dává smysl, než do toho budu investovat víc času nebo financí. Druhou kategorii jsou lidé, kteří mají na starosti vývoj nějakého produktu nebo služby. Ti využívají tady ten wipecoding k tomu, aby jednak dokázali rychle experimentovat a přivádět některé funkce v život a zjistit zpětnou vazbu, vyzkoušet si nápady a hlavně ukazovat svoje nápady už na reálných prototypech a investovat čas vývojářů až do něčeho, co dává smysl nebo je to ověřené.
+
+Třetí kategorii jsou provozní týmy, marketing, personalisté, obchod, kteří najednou dostanou nástroj, kdy mohou část své práce automatizovat opět bez nutnosti posílat ji na IT-oddělní nebo dodavatelům a taky můžou přinášet daleko rychlejší stavění produktů a služeb pro svoje vlastní účely. Takže marketing, tam je to jasný, můžou zorganizovat akci, udělat webovou strhanku za pár hodin, personalisté zase můžou velmi rychle naprogramovat nějaký dotazník pro zaměstnance. Zkrátka, digitální systémy, které bychom normálně tvořili v local aplikacích nebo je zadávali vývojářům, tak si každé oddělení může stavět své pomoci.
+
+Poslední kategorii jsou firmní lídři, lidé, kteří můžou používat ten webcoding proto, aby si taky sami trošku zaprogramovali, protože je to častokrát jednodušší způsob, jak třeba analyzovat data nebo jak si zautomatizovat práci, než se prosit někoho, aby mi to udělal. Ale také díky tomu můžou zjistit, co všechno dneska AI dokáže. Takže pro mě osobně je webcoding ani ne tak nástroj na stavbu webů nebo věcí, které jdou s tím jenom zákazníkům, ale naprosto geniální nástroj, který zjednodušuje znalostní práci, umožňuje mi analyzovat data a automatizovat část práce, kterou bych musel dělat daleko komplikovaní.
+
+I proto kolem nás vidíme naprosto úžasné příklady, kdy webkoduje CEO firmy, která má hodnotu x desítek miliard,který vyprogramoval aplikaci pro lidi, kteří navštěvují jeho kostel. I proto ten wipecoding je aktivita, kterou můžete dělat nejen v práci, ale i třeba s dětmi, nebo v rámci firemních setkání nebo hekatonů, kdy můžete posunout nějaký projekt omíle dopředu za jeden jediný den. Kde wipecoding nachází uplatnění? Já už jsem to zmínil, pro mě primárně jsou to skripty pro automatizaci, takže představte si, že máte tabůlku, chcete, aby data z každého řádku se vyexportovaly do jednotlivých souborů, abyste třeba mohli pak nahrát do AI.
+
+Typický příklad, řeknu kurzoru, on to rozdělí. Nebo potřebuji konsolidovat data, potřebuji spojit data z pěti tabůlek. Nechám AI, ať je analyzuje, zjistí, co je tam společného a naprogramuje skript, který ta data propojí.
+
+Chci se napojit na API, třeba na AI. Představte si, že máte 50 dokumentů, ze kterých chcete všechny data převést do textu. Vy můžete zjistit, jaký AI nástroj nabízí API, napojit se přes wipecoding, zapratit 2-3 dolary a nechat všechna ta data přepsat do textové podoby.
+
+Nebo napojit se na jakoukoliv AI aplikaci a to, co děláte manuálně, tak dělat automatizovaně. Třeba vytvořit tisíc videí avataru v Haygenu. Jakmile ten nástroj nabízí API, můžete navipecodovat to, aby se to API dokázalo využít.
+
+Předposlední a podle mě asi tou nejužitečnější dneska kategorii jsou takzvané mikroaplikace. Jsou to jednoučelové webové nástroje, kdy potřebujete udělat nějaký úkol. Typicky chci vytvořit kalkulačku cenových nabídek.
+
+Nebo chci udělat nástroj, kde můžu nahrát jakékoliv audio a on mi to převede na text. Jednorázový nástroj, který si nechám naprogramovat a on pak funguje pro mě. Tím, že funguje jen pro mě, je jednorázový, nechci ho prodávat, nechci ho nabízet pryč, tak je dále jednodušší, abych si ho navipecodoval, protože nemusím až tak moc řešit, jestli bude udržitelný, jestli rozumím tomu kodu atd.
+
+Poslední kategorii jsou weby nebo už větší aplikace. Dneska znám projekty, které jsou kompletně navipecodované, jsou to vlastně svým způsobem startupy, nicméně je potřeba k tomu přístupovat opatrně, protože se tam dostáváme už do takových trošku rizik ve smyslu udržitelnosti, bezpečnosti kodu atd. Každopádně na skripty, automatizace, mikroaplikace je vipecoding naprosto geniální.
+
+I proto to mám rozděleno na takové tři úrovně. Ta první úrověn je zelená, doporučená. Na co vipecoding používat? Ať už je to prototyping, to znamená potřebu udělat návrh nějaké aplikace, aniž bych ji chtěl napojovat na systémy, nebo ji chtěl nabízet, chtěl inkasovat od někoho peníze.
+
+Jsou to interní nástroje, jednoduché jednoučelové nástroje, nebo typicky marketingové experimenty a kampaně. Chci udělat webovou stránku na nějaký konkrétní projekt, registrační web na nějakou firmní akci, to můžu bez problému vipkodovat. Nepotřebujete na tom mít ani žádný dohled, dokážete se to naučit, buď za pár dní nebo týdnu, nebo ve spolupráci s AI.
+
+Nicméně v momentě, kdy už tam chcete začít řešit cetlivá data, platící zákazníky nebo komplexnější systémy, tak je dobré přejít už do té druhé úrovně, které říkám žlutá, neboli opatrně. Představte si, že za pomocí AI vytvoříte aplikaci. Pokud si testujete věja pár známých, tak je to bez problémů.
+
+V momentě, kdy už ji začínáte nabízet zákazníků, nebo dokonce si chcete nechat zaplatit, tak už byste měli dávat pozor. Stejně tak, když uděláte interní nástroj a ten napojíte na nějaká interní data. Případně, když už ten projekt začíná trošku bobnat a narůstat.
+
+V takovém případě byste měli už minimálně vědět, co děláte, nebo mít někoho, kdo se na to podívá a je schopen vyhodnotit, jestli ten váš projekt je dělaný správně a bezpečně. Pokud tam zpracováváte opravdu cetlivá data anebo se stáváte součástí nějakých kritických procesů, dostáváte se do té poslední červené zóny, kde už nedoporuču vibecoding, pokud opravdu nevíte, co děláte. Buď, když se jedná o kritické systémy firmy, kdy je to aplikace s velmi citlivými daty, nebo komplexní projekt, který už se vývíjí 10-15 let a vy do toho přijdete s nějakým programováním za pomocí AI, pokud opravdu nevíte, co děláte, výpadek by znamenal strátu zákazníků, reputace, finanční škodu nebo dokonce poručení zákona, tak si prosím dávejte velký pozor.
+
+Těch rizik totiž není málo. Můžou to být buď bezpečnost a obava, neobava, ale strata uník cetlivých dát HESEL nebo KOD, kterých opravdu způsobí problémy uživatelům, to, že jako prototyp ta aplikace může fungovat skvěle, ale jakmile ji začnete nabízet většímu množství zákazníků, tak začne být pomalá nebo se začne sekat. Může to být údržba, která může být až nemožná, protože AI píše hodně kodu, častokrát, když nevíte, jak na to, tak napíše spoustu balastu, takže se v tom nikdo nezorientuje.
+
+No a to, s čím se setkávám poměrně často, je něco, čemu říkáme iluze hotového projektu. To znamená, že vypadá to, že těch 90% máte hotovo, ale právě těch deset posledních procent nastavení databáze, škálování, přihlašování, bezpečnost může být vlastně drtivá většina toho projektu, takže se to pak někdy musí velmi dlouze a draze předělávat. No a samozřejmě máme tam i různá právní rizika, nebo závislost, kdy jste závislí třeba na jedné platformě a pak můžete platit docela dost peněz za každou úpravu té aplikace.
+
+Takže rizik je celá řada, nicméně za mě pokud víte, k čemu to využít, pro jaký účel, tak ty benefity vyvažují a myslím si, že to téma je opravdu něco, o čem bychom měli minimálně mít přehled nebo ještě lépe vědět na co a kdy wipecoding použít. I proto rozděluji tyto nástroj na dvě kategorie. Teď se budu primárně zabývat tou kategorii pro všechny, to znamená pro všechny znalostní nebo kreativní pracovníky.
+
+Pokud máte trošku větší ambice, chcete stavit větší systémy, tak v prezentaci najdete i typy pro pokročilé. Takže jdeme na to. Na začátek klasické nástroje jako je ChatGPT, CLOT, Gemini nebo specializované ChatPRD můžete využít na přípravu zadání nebo konzultaci.
+
+Představte si, že chcete udělat nějaký projekt. Než jdete do nástrojů na wipecoding, můžete to probrat. Můžete nahrát dokumenty, nahrát přepsaný záznam z hovoru, kdy se s někým bavíte o vaše vysněné aplikaci.
+
+Jakmile to nahráte do EI, můžete si z toho udělat jasně danou strukturu, zadání pro vývojáře a to zadání pak vezmete a dáte ho už do specializované aplikace. Tou aplikací můžou být i třeba pořád ty stejné nástroje, protože ChatGPT i CLOT dneska umí nejen programovat, ale také ty aplikace rovnou způštět a zobrazovat. Je to ideální na velmi jednoduché řešení, jednoduché zadání.
+
+To znamená, chcete interaktivní graf, chcete nějakou rychlou kalkulačku, jednoduchou hru nebo nějakou klikací prezentaci, v ChatGPT si můžete říct naprogramuj mi canvas, v CLOTu vy řeknete naprogramuj mi artefakt a díky tomu můžete udělat velmi rychlej prototyp nebo přímo tu mini aplikaci. Pokud máte placeného CLOTa, on dokonce nabízí i možnost, abyste tam udělali tu aplikaci s AI. To znamená, že když si to aktivujete v nastavení, tak si třeba můžete vyzkoušet naprogramovat aplikaci na učení jazyka.
+
+Takže aplikace vám bude dávat příklady, budete odpovídat, a ona bude využívat umělou inteligenci k tomu, aby ty odpovědi vyhodnotila. Aplikace s AI. Pokud chcete komplexnější věci, můžete vyzkoušet nástroje jako je Replit, LovableBot nebo naprosto skvělé nástroje od Google.
+
+Google AI Studio nebo úplně nový Google Opal. Tady v těch nástrojích už můžete dělat webové stránky, aplikace, a to je poměrně komplexní, častokrát si vystačíte čistě s těmi nástroji, protože mají vlastní databáze, můžete tam dokonce udělat i přihlašování přímo. Takže opravdu už dneska dokážete udělat spoustu věcí, a v některých dokonce můžete přidat i ty AI funkcionality.
+
+Takže podobně jak jsem to říkal v Klodovi, tak třeba Google AI Studio nebo Replit už dneska nabízí, že přímo v těchto nástrojích buď můžete volat AI modely přes API, a nebo přímo využít AI, kterou ty nástroje nabízí. Posováme se dál a to ke spouštění skriptu a automatizací. Těch možností je samozřejmě více, hodně se to používá, pokud chcete pravidelně spouštět nějakou aktivitu na počítači nebo pracovat s vašimi soubory nebo se složkami.
+
+Mac má nástroj, kterým se možná říká Terminál, Windows má PowerShell nebo Task Scheduler, s tím, že pokud neumíte psát ty skripty tak jako já, tak si můžete využít jakýkoliv váš AI nástroj, jako je ChatGPT nebo Klod. Pokud chcete dělat trošku komplexnější věci, tak vy ten Terminál nebo PowerShell můžete ovládat i třeba z kurzoru. Nicméně, jeden z takových nejlepších nástrojů minimálně na vyzkoušení je Google Apps Script, který funguje v rámci Google ekosystému, ale vy se můžete podívat na něj jako na učící tool.
+
+To znamená, představte si, že máte Google tabulku, chcete automatizovat nějakou práci, můžete si nechat vytvořit skript pro Google Apps Script a třeba můžete tu tabulku kompletně předělat, automatizovat, exportovat tím, že skopírujete vygenerovaný skript do toho. Takže pokud nevíte, jak tady ty skripty spouštět, Google Apps Script může být jedno z těch řešení. I už jsem zmiňoval kurzor.
+
+Kurzor hodně opakujeme ve failu a nejenom ve failu. Je to vývojové prostředí, které má integrovanou tu AI funkci, to znamená, funguje jako agent, kdy já zadám nějaký požadavek, AI začne programovat, psát kód a dělá to za mě. Ať už můžu stavit aplikaci, můžu vzít nějaký hotový skript a ten upravovat, a nebo právě spouštět skripty, které analizují data na mém počítači, uklízí mi soubory a složky, předělávají texty, zkrátka cokoliv, co bych dělal manuálně.
+
+I proto je pro mě kurzor nástroj číslo 1, protože já nemusím přemýšlet, kam ten skript dát, jak ho spustit, všechno se to zkrátka děje v jednom prostředí. A tyto nástroje už máme k dispozici i pro korporátní svět, takže já osobně věřím, že toto je budoucnost, znalostní práce, a kdokoliv, kdo trošku víc se pracuje s daty, kdo potřebuje trošku víc zautomatizovat, tak tyto nástroje do budoucna bude ovládat. Poslední kategorii jsou nástroje na webové spouštění skriptů.
+
+Ty jsou dobré primárně na analýzu dát, generování různých reportů. Takže pokud si necháte spustit nějaký skript a nemáte ho kde spustit, tak můžete zkusit nástroje jako je Google Colab, nebo Jupyter Notebook, nebo DeepNote. Opět, dá se v tom i hezky naučit pracovat s daty, nebo automatizovat, ale můžete taktéž použít AI, která vám ty skripty bude vytvářet.
+
+Všechny tady ty nástroje dávají smysl pro běžného, pokročilejšího uživatele, což jste všichni účastníci failu. Pokud máte trošku větší ambice, tak předpokládám, že buď už tady ty technologie znáte, nebo se můžete podívat na to, jaké možnosti nabízejí dnešní tooly na databáze, to znamená ukládání dát, autentifikace a napojení na další služby, verezování, úložiště kódu, nebo deployment, to abych ty svoje navypkodované aplikace mohl nasadit na internet. Pokud se chcete stát future AI líderem, tak věřím, že kromě znalosti a přehledu tady o těchto aplikacích, tak byste si měli zkusit minimálně jednu věc navypkodit, to znamená, váš úkol je, zkuste si vytvořit alespoň jednu webovou stránku nebo aplikaci.
+
+Ta aplikace je podle mě zajímavější, protože tím můžete vyřešit nějaký váš problém. Případně si můžete zkusit vytvořit alespoň jeden skrypt, spojení dát, export, analýza nějakého vašeho adresáře, zkrátka cokoliv, co zatím nezvládáte, ale za pomocí AI to zvládnout můžete. Případně se můžete pobavit s týmem, jestli vypkoding znají, používají a zkusit se zamyslet, kde byste ho mohli využít.
+
+Ať už na tvorbu reálních digitálních produktů a služeb, nebo v nějakých částech vašeho procesu. Prototyping, rychlé pilotování nějakých řešení a tak dále. No a jak začít? Ideálně je promyslet si, co by vám nejvíce pomohlo.
+
+Opravdu to zkuste stavět na problém, který reálně řešíte. Potom se pobavte se AI a vytvořte si zadání. To znamená, nechoďte do těch nástrojů, nezačněte psát jen tak, ale opravdu ten první krok udělejte ve vašem AI chatbotovi.
+
+No a pak se podívejte na jeden z těch nástrojů a vyskoušejte ho. Můžete si vyskoušet i dva, tři, většinou, nebo spíš vždycky mají základní verzi bezplatně. Takže si můžete vyskoušet, jak to vypadá, když si jedno to zadání dáte do dvou, nebo do tří z těchto nástrojů.
+
+A pokud nevíte, jaký nástroj zvolit, v materiálech najdete i přehled všech tady těchto nástrojů, které jsou v této prezentaci, takže si je můžete jednoduše hodit do AI a pobavit se o tom. Díky moc za pozornost a moc se těším na to, co budeme sdílet, protože s vibecodingem jsou opravdu lidé skupní stavět neuvěřitelné věci a je to zážitek, který pak vám i ukáže možnosti alimity AI jako nic jiného. Díky a v Pátek naviděnou.
